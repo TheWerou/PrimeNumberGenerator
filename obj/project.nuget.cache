@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuHf5p5VTNIs9GfNYx+3eNdVyWeYeEMpaNk8MTnvvoJqBsIZw6/5wGALfKnaoMuh8DdlrcbLorECsE3GE77G4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wojte\\Desktop\\Programowanie\\C_hasz\\LiczbyPierwsze\\LiczbyPierwsze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wojte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
